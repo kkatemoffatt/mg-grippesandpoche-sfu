@@ -1,0 +1,1478 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations.json",
+  "type": "AnnotationPage",
+  "label": "Deviations",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Another reason why Grippes thought O. Poche must be recent was the way he kept blushing.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "628.307169"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: At this time, President de Gaulle had been in power five years, two of which Grippes had spent in blithe writer-in-residenceship in California.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "639.965828"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"Human waywardness is hardly new,\" said Grippes, feeling more and more secure now that he had tested Poche and found him provincial.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "747.729645"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Perhaps ['Mr.' struck through with pencil, replaced with 'MO'] Grippes would try ['and' struck through with pencil, replaced with 'to'] remember.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "788.377401"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: His eyes seemed to Grippes as helpless and eager as those of a gun dog waiting for a command in the right language.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "821.777882"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"Wife\" had not entered Grippes' cast of characters, probably because like Poche he did not have have [sic] one. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "860.535044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: What a mistake it had been, Grippes reflected, still feeling pain beneath the scar, to have repeated the male-teacher-female-student pattern.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "886.688252"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: The professor had not given Karen-Sue the cultural and political enlightenment one might expect from the graduate of a pre-eminent Paris school.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "961.051588"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: It was Grippes' first outstanding debacle and, for that reason, the only one of his works he ever re-read.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "984.368905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He recalled her with tolerance -- the same tolerance that had probably weakened the book.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1008.001321"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He had thought he would get away with it, knowing all the while he could not.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1022.495869"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: After a few minutes of speculative anguish in the airless cubicle, Grippes saw that Poche had no inkling whatever about the flats.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1102.530985"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Obviously, he had committed the worst sort of blunder, had been intimate, had let his own personality show. He had crossed over to his opponent's ground.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1152.001510"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"Although, to tell the truth, I don't remember writing it.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1166.180959"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He had invented a law, a mortmain on publication [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1230.461131"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Not so long ago [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1251.887855"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Grippes made a try of his own, jocular [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1297.892292"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"This dossier is too complex [...]\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1312.701939"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"How long, in all, were you out of the country?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1337.594751"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: [...] Grippes' father [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1367.844243"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: One glimpsed them, all in gray, creeping along [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1378.242506"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Grippes decided to transform Mme de Pelle into the manager of a brothel catering to the Foreign Legion, slovely in the habits and addicted to chloroform, but he found the idea unpromising.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1390.846462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: [...] for fear of drawing attention to the apartments.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1411.012790"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Spiritual shilly-shallying tends to run long [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1485.061027"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Then came \"Thomas\" with his spartan mother on a Provencal fruit farm [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1495.144191"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: [...] and to take the metaphysical risk of revealing \"Henri.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1536.422145"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: His diffident, steely questions tried to elicit from Grippes how many copies were likely to be sold [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1591.564449"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Poche would turn back the cover ['to' struck out, replaced with 'and'] glance at the signature, probably to make certain [...] ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1603.853305"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He thought of old-fashioned milestones, half-hidden by weeds, along disused roads. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1627.485721"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Perhaps he had to wait for the woman upstairs to retire so he could take over her title and office.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1635.048094"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He tried to imagine Mme Poche.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1654.269126"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: At the same time, it seemed to Grippes that their wavering, ruffled reflection should deliver something he alone might recognize.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1670.654268"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He was like a father, gazing round the breakfast table, suddenly realizing that none of the children are his.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1709.726529"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Once, Grippes won some City of Paris award and was shown in France-Soir shaking hands with the mayor and simultaneously receiving a long, cheque-filled envelope.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1807.407182"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1875.153442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He still knew nothing ['about Poche' added in pen] except for the wedding ring.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1926.514560"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Poche said to Grippes, \"I asked you to come here, Maitre, because I find we have overlooked something concerning your income.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2111.792702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: [...] the circle was so small that it had to come back.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2160.633028"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: [...] if there could possibly be a good dodge he, Grippes, had never heard of.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2345.911170"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He thought of contemporary authors for whose success there could be no other explanation [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2350.007456"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: All Grippes had ever offered Poche were his own books, formally inscribed [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2427.521781"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Prism lent him something to read -- his sunburn was keeping him awake.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2483.609381"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Prism had got it wrong, of course, putting Thomas Mann to die in the charity ward of a Paris hospital, sending Stefan Zweig to be photographed with movie stars in California, and having the Austrian novelist Joseph Roth -- whose plain name Prism could not spell -- win the Nobel Prize [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2502.200215"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Chided by Grippes, Prism had been defensive, cold, said that no letters had come in. \"One, surely?\" said Grippes. \"Yes, I thought that must be you,\" Prism said.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2529.298719"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"You would have to marry a Frenchwoman and have at least five male children,\" said Grippes, through the scarf.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2587.276913"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: \"So you have read them,\" said Grippes, an eye on the locker.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2831.478546"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He had no idea what that could be from, and he was certain he had not written it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2871.496104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Grippes had become a commonplace taxpayer [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2879.058477"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: A fashion for having well-behaved Nazi officers shore up Western culture [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2890.717136"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: [...] cough pastilles [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2928.213903"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Up the fetid staircase came a handsome colonel, a Kurt Jurgens type [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2933.885683"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Poche was in a gangster-ridden Mediterranean city [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2969.491856"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Meanwhile, Grippes was here [...]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3003.207436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: The simplest final authority in Grippes' life had been O. Poche and a book of rules.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3154.769998"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: It had been in italics, at the foot of the page.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3173.360832"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: She put her hand over a page, as though Grippes were trying to read upside down. \"It has all got to be paid back,\" she said.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3214.008588"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: She wore a hat ornamented with an ivory arrow, and a plain gray coat, tubular in shape, with a narrow fur collar.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3357.693678"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He could not even guess at her name.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3543.286919"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: Now, that was untrue, and he had no reason to say it or anything like it. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3591.497048"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PROOFS: He could perhaps write an anonymous letter, saying that the famous author Henri Grippes was guilty of evasion of a most repulsive kind.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3625.842826"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "If you can't hear, just say something, and I'll do the best I can.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "556.779723"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's the pill.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "944.351347"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: This is not a joke, on French income tax form you're asked if you belong to a golf club. [MG laughter] It puts you in another bracket.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1094.338414"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: That is, with the advent of Pompidou, who'd been connected with the bank.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1875.153442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That accompanies Giscard d'Estaing's reign.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2045.621937"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: Prism, excuse me, I'm pronouncing it in French.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2576.248452"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: And now he quotes something, presumably from one of the books.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2854.480765"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: I have an editorial query here, is he imagining this - yes. [MG laughter] These are proofs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3187.855381"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: That is the conservative church.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3352.021898"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: That means something especially hideous.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3524.380986"
+        }
+      }
+    }
+  ]
+}

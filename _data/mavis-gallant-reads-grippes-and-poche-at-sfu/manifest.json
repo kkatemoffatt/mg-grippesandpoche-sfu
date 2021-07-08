@@ -23,6 +23,14 @@
         "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3801.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations.json",
+            "label": "Deviations"
+          }
+        ],
         "items": [
           {
             "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/paintings",
