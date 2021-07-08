@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Mavis Gallant Reads \"Grippes and Poche\" at SFU" ] },
+    "summary": { "en": [ "Annotations of Mavis Gallant's reading of her New Yorker short story \"Grippes and Poche\" at Simon Fraser University in 1984, from an episode of the SpokenWeb Podcast created by SpokenWeb contributors Kate Moffatt, Kandice Sharren, and Michelle Levy, \"Mavis Gallant Reads 'Grippes and Poche' at SFU.\"" ] },
+    "items": [
+    ]
+}
