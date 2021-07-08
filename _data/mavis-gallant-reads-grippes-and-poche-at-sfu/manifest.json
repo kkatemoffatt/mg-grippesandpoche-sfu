@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Mavis Gallant Reads \"Grippes and Poche\" at SFU" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Mavis Gallant Reads \"Grippes and Poche\" at SFU" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3801.0,
+        "items": [
+          {
+            "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://cdn.simplecast.com/audio/28a9da1f-8cca-410c-b5d7-8165a73f9394/episodes/a9212c02-0491-458c-9d5a-eae284bc37f3/audio/3d08da82-0039-4ad4-8ed7-f1377e559fd8/default_tc.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3801.0
+                },
+                "target": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
