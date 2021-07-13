@@ -1,0 +1,218 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides.json",
+  "type": "AnnotationPage",
+  "label": "Asides",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "If you can't hear, just say something, and I'll do the best I can.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "556.779723"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's the pill.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "944.351347"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: This is not a joke, on French income tax form you're asked if you belong to a golf club. [MG laughter] It puts you in another bracket.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1094.338414"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: That is, with the advent of Pompidou, who'd been connected with the bank.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1875.153442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That accompanies Giscard d'Estaing's reign.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2045.621937"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: Prism, excuse me, I'm pronouncing it in French.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2576.248452"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: And now he quotes something, presumably from one of the books.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2854.480765"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: I have an editorial query here, is he imagining this - yes. [MG laughter] These are proofs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3187.855381"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: That is the conservative church.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3352.021898"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "MG: That means something especially hideous.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3524.380986"
+        }
+      }
+    }
+  ]
+}

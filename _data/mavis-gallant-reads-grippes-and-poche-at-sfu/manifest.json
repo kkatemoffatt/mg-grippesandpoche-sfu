@@ -30,6 +30,12 @@
             "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/deviations.json",
             "label": "Deviations"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/canvas-1/canvas/asides.json",
+            "label": "Asides"
+          }
         ],
         "items": [
           {
