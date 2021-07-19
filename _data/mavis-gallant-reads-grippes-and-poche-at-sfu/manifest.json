@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://kkatemoffatt.github.io/mg-grippesandpoche-sfu/mavis-gallant-reads-grippes-and-poche-at-sfu/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Mavis Gallant Reads \"Grippes and Poche\" at SFU" ] },
+    "label": { "en": [ "Mavis Gallant reads Grippes and Poche at SFU" ] },
     "homepage": [
       {
         "id": "",
         "type": "Text",
-        "label": { "en": [ "Mavis Gallant Reads \"Grippes and Poche\" at SFU" ] },
+        "label": { "en": [ "Mavis Gallant reads Grippes and Poche at SFU" ] },
         "format": "text/html"
       }
     ],
